@@ -13,7 +13,7 @@ I am Noghan Odedra from Ahmedabad, Gujarat, India who is a profressional freelan
 
 
 
-![Noghans's github stats](https://github-readme-stats.vercel.app/api?username=noghanodedra&show_icons=true&theme=highcontrast)
+![Noghans's github stats](https://github-readme-stats.vercel.app/api?username=noghanodedra&show_icons=true&theme=onedark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noghanodedra&layout=compact)](https://github.com/noghanodedra/github-readme-stats)
 
