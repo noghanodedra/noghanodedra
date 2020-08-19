@@ -6,7 +6,7 @@
 
 I am Noghan Odedra from Ahmedabad, Gujarat, India who is a profressional freelancer and contractor mostly working on latest web tech stack - Angular, React, TypeScript, GraphQL, SCSS/SASS, Jest, Jasmine, Karma etc. I can also work on Java, Desktop Apps using eclipse SWT, Spring, Hibernate, REST APIs. Experienced in setting up MySQL NDB clusters and off course good knowledge of MySQL. Know few bits of Node, Express and Mongo. Keen to learn Strapi, Nuxt, Next, Deno. Did digital banking portal implmentation using platform called ['Backbase'](https://backbase.com).
 
-- 🛠 I’m currently focusing on JavaScript, Typescript, React, Angular, Jest, Mongodb, etc 💻.
+- 🛠 I’m currently focusing on JavaScript, Typescript, React, Angular, Jest, Node, Express, GraphQL, Mongodb, etc 💻.
 - 💬 Ask me about : Freelancing, Contracting, Architechture, Integration, Unit Testing, Angular, React, Java, MySQL, Security, REST API, Desktop Apps
 - 📫 How to reach me: maher.noghan@gmail.com
 - 😄 Pronouns: He/Him
