@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**noghanodedra/noghanodedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +8,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: maher.noghan@gmail.com
 - 😄 Pronouns: He/Him
+
+
+![profile view](https://gpvc.arturio.dev/noghanodedra)
+
+![Noghans's github stats](https://github-readme-stats.vercel.app/api?username=noghanodedra&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noghanodedra&layout=compact)](https://github.com/noghanodedra/github-readme-stats)
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
